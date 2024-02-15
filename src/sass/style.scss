@@ -1,13 +1,9 @@
 @use 'util' as *;
 @use 'vendore' as *;
 
-*{
-    box-sizing: border-box;
-    background-color: $blue-400;
 
-    &:hover{
-        background-color: $danger;
-    }
-}
+
+
+
 
 
