@@ -1,6 +1,13 @@
-@use 'util' as *;
-@use 'vendore' as *;
+@use './vendore/' as *;
+@use './abstracts/' as *;
+@use './base/' as *;
+@use './components/' as *;
+@use './layouts/' as *;
 
+
+body{
+    background-color: $def-primary;
+}
 
 
 
