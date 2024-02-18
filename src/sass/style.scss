@@ -5,12 +5,13 @@
 @use './layouts/' as *;
 
 
-body{
-    background-color: $def-primary;
-}
-
-
-
-
+//this  is the main entry point for your css.  All other stylesheets should import from here.
+/*!
+* =========================================================
+* Materialize - materializecss.com v1.0.0-beta
+* https://github.com/Dogfalo/materialize
+* Copyright 2014-2019 Damien "Dogfalo" Fortin       
+* Licensed under MIT (https://opensource.org/licenses/MIT)
+* ========================================================= */
 
 
