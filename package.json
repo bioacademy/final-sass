@@ -37,7 +37,7 @@
     "postcss-discard-duplicates": "^6.0.3",
     "postcss-zindex": "^6.0.2",
     "remixicon": "^4.2.0",
-    "sass": "^1.49.8"
+    "sass": "^1.71.0"
   },
   "devDependencies": {
     "postcss-size": "^5.0.0"
